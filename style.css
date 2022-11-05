@@ -13,7 +13,7 @@
 body{
     /* height: 868px; */
     width: 550px;
-  
+    margin: 0 auto;
     border-radius: 0px;
     background: #23252C;
    font-family: 'Inter', sans-serif;
